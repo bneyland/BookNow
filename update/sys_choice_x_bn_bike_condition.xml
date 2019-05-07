@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="condition" table="x_bn_bike" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>condition</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Like new</label>
+            <language>en</language>
+            <name>x_bn_bike</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-07 18:32:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>888c6c99db113300481af53a299619eb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-07 18:32:53</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>condition</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fair</label>
+            <language>en</language>
+            <name>x_bn_bike</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-07 18:32:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a8c6c99db113300481af53a299619ec</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-07 18:33:00</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>condition</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Major wear</label>
+            <language>en</language>
+            <name>x_bn_bike</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-07 18:33:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>209ca0d9db113300481af53a2996191f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-07 18:33:10</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>condition</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inoperable</label>
+            <language>en</language>
+            <name>x_bn_bike</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-07 18:33:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba9ce0d9db113300481af53a299619af</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-07 18:33:18</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>condition</element>
+            <name>x_bn_bike</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-07 18:32:49</sys_created_on>
+            <sys_id>f68c2c99db113300481af53a29961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>condition</sys_name>
+            <sys_package display_value="BookNow" source="x_bn">fa506eb3b32113009b67a13816a8dc58</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BookNow">fa506eb3b32113009b67a13816a8dc58</sys_scope>
+            <sys_update_name>sys_choice_x_bn_bike_condition</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-07 18:32:49</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
